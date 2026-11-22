@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.airport.parking.ParkingServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-11-22T15:53:30" hostname="DESKTOP-7K7UHES" time="0.042">
+  <properties/>
+  <testcase name="Журнал событий создает файл и записывает события" classname="ru.airport.parking.ParkingServiceTest" time="0.029"/>
+  <testcase name="В исходном поле всегда доступно ровно 12 автомобилей" classname="ru.airport.parking.ParkingServiceTest" time="0.003"/>
+  <testcase name="Въезд и выезд с расчетом оплаты и обновлением выручки" classname="ru.airport.parking.ParkingServiceTest" time="0.004"/>
+  <testcase name="Смена суток сбрасывает суточную выручку и сохраняет общую" classname="ru.airport.parking.ParkingServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
